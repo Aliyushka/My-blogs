@@ -1,0 +1,11 @@
+.socialContainer{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+.socialContainer img{
+    width: 70px;
+    margin-right: 10px;
+}
