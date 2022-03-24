@@ -15,6 +15,7 @@ const BlogEntries = () => {
                         desc={item.desc}
                         countComments={item.countComments}
                         imageUrl={item.imageUrl}
+                        id={item.id}
                     />
                 })
             }
